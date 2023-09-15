@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Stas Bondarenko</h1>
+<h3 align="center">Passionate .NET developer</h3>
 
 <!--
 **stassss2011/stassss2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
