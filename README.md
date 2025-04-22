@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- <h4 align="center">Passionate .NET developer</h4> -->
 
 
-Welcome to my corner of GitHub! I’m a passionate **Backend Software Engineer** with a love for all things .NET, containers, and AI. 🌐✨
+Welcome to my corner of GitHub! I’m a passionate **Software Engineer** with a love for all things like .NET, containers, and AI. 🌐✨
 
 ## 🚀 What I Do
 - **.NET Development**: Crafting high-performance applications with C# and .NET. 🧩🔧
